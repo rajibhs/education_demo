@@ -119,6 +119,7 @@ header{
     outline: none;
 }
 .search_submit{
+    margin-top: -5px;	
     font-size: 16px;
     height: 40px;
     color: #444444;
